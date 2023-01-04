@@ -1,0 +1,28 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Antic&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap'); */
+/* @import url("https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Bellefair&display=swap");
+
+@import "animate.css";
+
+:root {
+  --Green: #70a233;
+  --Blue: #3874A0;
+  --White: #fff;
+  --Orange: #F7B52C;
+  --Black: #000;
+  --Red: #f01d40;
+  --LightRed: #f01d4017;
+  --Gray: rgba(0, 0, 0, 0.056);
+}
+
+* {
+  /* font-family: 'Antic', sans-serif; */
+  /* font-family: 'Pompiere', cursive; */
+  /* font-family: "Antic Didone", serif; */
+  font-family: "Bellefair", serif !important;
+}
+
+body {
+  background: var(--Gray) !important;
+}

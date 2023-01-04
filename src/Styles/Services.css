@@ -1,0 +1,11 @@
+.services {
+  width: 80%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.service span {
+  font-size: 3rem;
+  font-weight: 600;
+  color: var(--Red);
+}

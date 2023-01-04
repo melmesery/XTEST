@@ -1,0 +1,19 @@
+.info {
+  padding-top: 80px;
+  border: dashed var(--LightRed) 2px;
+  margin: 10px;
+}
+
+@media only screen and (max-width: 576px) {
+  .next {
+    display: none;
+  }
+
+  .info p {
+    text-align: justify;
+  }
+
+  .info {
+    padding-top: 40px;
+  }
+}

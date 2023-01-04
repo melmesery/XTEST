@@ -1,0 +1,57 @@
+
+.main {
+    text-align: center;
+    padding-top: 80px;
+  }
+  
+  .title h1 {
+    font-size: 5rem;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+  }
+  
+  .title h1 span {
+    font-size: 2rem;
+    color: var(--Red);
+  }
+  
+  .email {
+    width: 20%;
+    margin: 20px auto;
+    padding: 10px 0;
+    border: solid 2px var(--LightRed);
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--Red);
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  .email:hover {
+    background: var(--LightRed);
+  }
+  
+  .hero-img {
+    width: 90%;
+    border-radius: 50%;
+  }
+
+  @media only screen and (max-width: 576px) {
+    .hero-img {
+      width: 60%;
+      margin-bottom: 15px;
+    }
+
+    .email {
+      width: 50%;
+      padding: 5px 0;
+    }
+
+    .title h1 {
+      font-size: 2.3rem;
+    }
+
+    .title h1 span {
+      font-size: 1.5rem;
+    }
+  }

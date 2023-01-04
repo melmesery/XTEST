@@ -1,0 +1,20 @@
+footer {
+  background: var(--White);
+  display: grid;
+  align-items: center;
+  color: var(--Black);
+  width: 65%;
+  margin: 0 auto;
+  text-align: center;
+  border-top: dashed var(--LightRed) 2px;
+}
+
+footer span {
+    color: var(--Red);
+}
+
+@media only screen and (max-width: 576px) {
+  footer {
+    width: 90%;
+  }
+}

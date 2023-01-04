@@ -1,0 +1,43 @@
+.home {
+  width: 65%;
+  margin: 0 auto;
+  background: var(--White) !important;
+}
+
+h3 {
+  font-size: 1.8rem;
+  color: var(--Red);
+  font-weight: 600;
+}
+
+.social a {
+  border: solid var(--LightRed) 1px !important;
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.4rem;
+  color: var(--Red) !important;
+}
+
+.social a:hover {
+  background: var(--LightRed);
+}
+
+.underline {
+  width: 30%; 
+  margin: 0 auto;
+  height: 5px;
+  border-radius: 30%;
+  background: var(--LightRed);
+  margin-bottom: 30px;
+}
+
+
+@media only screen and (max-width: 576px) {
+  .home {
+    width: 90%;
+  }
+}
