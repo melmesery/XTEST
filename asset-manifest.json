@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/XTEST/static/css/main.c88e638c.css",
-    "main.js": "/XTEST/static/js/main.da656dfa.js",
+    "main.css": "/XTEST/static/css/main.13195b17.css",
+    "main.js": "/XTEST/static/js/main.7ebac4c9.js",
     "static/media/project_6.png": "/XTEST/static/media/project_6.8c230710ca733697b43f.png",
     "static/media/project_2.png": "/XTEST/static/media/project_2.45eb4d8dd989733dcf55.png",
     "static/media/project_3.png": "/XTEST/static/media/project_3.dddf0363758d46e7b886.png",
@@ -11,12 +11,16 @@
     "static/media/project_4.png": "/XTEST/static/media/project_4.15bf6b75603984ca2d9f.png",
     "static/media/project_7.png": "/XTEST/static/media/project_7.b22bbd029bee3adb29d7.png",
     "static/media/profile.jpg": "/XTEST/static/media/profile.1bf18f1f3e3bc6a4daaf.jpg",
+    "static/media/contact.png": "/XTEST/static/media/contact.6c6a6f6fdc87fc29408b.png",
+    "static/media/home.png": "/XTEST/static/media/home.3f7941f8110d1fb664c2.png",
+    "static/media/portfolio.png": "/XTEST/static/media/portfolio.e72aa01e590c73864b4e.png",
+    "static/media/id-card.png": "/XTEST/static/media/id-card.1908a2b4876dfb1124f9.png",
     "index.html": "/XTEST/index.html",
-    "main.c88e638c.css.map": "/XTEST/static/css/main.c88e638c.css.map",
-    "main.da656dfa.js.map": "/XTEST/static/js/main.da656dfa.js.map"
+    "main.13195b17.css.map": "/XTEST/static/css/main.13195b17.css.map",
+    "main.7ebac4c9.js.map": "/XTEST/static/js/main.7ebac4c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c88e638c.css",
-    "static/js/main.da656dfa.js"
+    "static/css/main.13195b17.css",
+    "static/js/main.7ebac4c9.js"
   ]
 }
